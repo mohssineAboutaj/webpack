@@ -2,14 +2,17 @@
 
 This project has been created using **webpack scaffold**, you can now run
 
+## Run build
 ```
 npm run build
 ```
-
 or
 
 ```
 yarn build
 ```
 
-to bundle your application
+## Run server
+```
+npm start
+```
